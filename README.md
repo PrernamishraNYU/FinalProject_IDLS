@@ -32,11 +32,11 @@ Accurately predicting the stock markets is a complex task as there are millions 
 The Repo contains following files and folder:
 
 * Data- Datasets used in the codes:
-    *- AMZN.csv
-    *- CLOSE.csv
-    *- market
-    *- stock
-    *- news
+    - AMZN.csv
+    - CLOSE.csv
+    - market
+    - stock
+    - news
 * Model -LSTM model used in file
 * Screenshots - important plots
 * Requirements.txt- Necessary files, libraries and packages
