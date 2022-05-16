@@ -13,4 +13,92 @@ I took help all over the internet to finish up my project. My project is based o
 9. https://medium.com/s/story/predicting-the-stock-market-is-easier-than-you-might-think-4f1e0bc05cfe
 10.https://www.learndatasci.com/tutorials/python-finance-part-3-moving-average-trading-strategy/
 11.https://towardsdatascience.com/trading-technical-analysis-with-pandas-43e737a17861
-12.
+12.https://www.metastock.com/customer/resources/taaz/?p=58
+13.https://towardsdatascience.com/forecasting-exchange-rates-using-arima-in-python-f032f313fc56
+14.https://github.com/gmonaci/ARIMA
+15.https://towardsdatascience.com/forecasting-exchange-rates-using-arima-in-python-f032f313fc56
+16.https://xgboost.readthedocs.io/en/latest/get_started.html
+17.https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+18.https://github.com/LiamConnell/deep-algotrading
+19.https://keras.io/getting-started/sequential-model-guide/
+20.https://datascience.stackexchange.com/questions/27615/should-we-apply-normalization-to-test-data-as-well
+21.https://machinelearningmastery.com/multi-step-time-series-forecasting/
+22.https://data36.com/statistical-averages-mean-median-mode/
+23.https://machinelearningmastery.com/normalize-standardize-time-series-data-python/
+24.https://www.learndatasci.com/tutorials/python-finance-part-3-moving-average-trading-strategy/
+25.https://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/
+26.https://www.tensorflow.org/api_docs/python/tf/layers/Dense
+27.https://www.tensorflow.org/api_docs/python/tf/nn/dynamic_rnn
+28.https://www.tensorflow.org/api_docs/python/tf/train/Optimizer
+29.https://www.tensorflow.org/api_docs/python/tf/reshape
+30.https://www.tensorflow.org/api_docs/python/tf/control_dependencies
+31.https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction/blob/master/core/model.py
+32.https://www.tensorflow.org/beta/tutorials/text/time_series
+33.https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948
+34.https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo/blob/master/SentimentAnalysisProject/emo_utils.py
+35.https://towardsdatascience.com/comprehensive-introduction-to-turing-learning-and-gans-part-1-81f6d02e644d
+36.https://www.tensorflow.org/beta/tutorials/generative/dcgan
+37.https://www.kaggle.com/ashishpatel26/gan-beginner-tutorial-for-pytorch-celeba-dataset
+38.Ricardo, A., Carrillo, R.(2019). Generative Adversarial Network for Stock Market price Prediction. Stanford University.
+39.Zhang, K., Zhong, G., Dong, J., Wang, S., & Wang, Y. (2019). Stock market prediction based on
+ generative adversarial network. Procedia computer science, 147, 400-406.
+40.Cho, Kyunghyun, Bart Van Merriënboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares,
+41.Holger Schwenk, and Yoshua Bengio. "Learning phrase representations using RNN encoder-
+decoder for statistical machine translation."
+Hochreiter, Sepp. "JA1 4 rgen Schmidhuber (1997).“Long Short-Term Memory”." Neural
+arXiv preprint arXiv:1406.1078
+(2014).
+Computation 9, no.
+42.Hochreiter, Sepp. "JA1 4 rgen Schmidhuber (1997).“Long Short-Term Memory”." Neural Computation 9, no. 8.
+Zhang, K., Zhong, G., Dong, J., Wang, S., & Wang, Y. (2019). Stock market prediction based on
+ generative adversarial network. Procedia computer science, 147, 400-406.
+ 43.Zhou, X., Pan, Z., Hu, G., Tang, S., & Zhao, C. (2018). Stock market prediction on high-
+ frequency data using generative adversarial nets. Mathematical Problems in Engineering, 2018.
+ 44.Banushev, B., (2020). Using the latest advancements in AI to predict stock market
+ movements. Access: https://github.com/borisbanushev/stockpredictionai
+45.Hessel, Matteo, Joseph Modayil, Hado Van Hasselt, Tom Schaul, Georg Ostrovski, Will
+ Dabney, Dan Horgan, Bilal Piot, Mohammad Azar, and David Silver. "Rainbow: Combining
+ improvements in deep reinforcement learning."
+46.Jonathan, H., (2020). GAN — Spectral Normalization. Access: https://jonathan- hui.medium.com/gan-spectral-normalization-893b6a4e8f53
+Jonathan, H., (2020). GAN — Wasserstein GAN & WGAN-GP. Access:
+<https://jonathan-hui.medium.com/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490>
+(2017).
+47.Schulman, John, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. "Proximal
+ policy optimization algorithms."
+(2017)
+48.Stock price prediction using BERT and GAN by Priyank Sonkiya, Vikas Bajpai and Anukriti Bansal
+49.Deep Learning for Event-Driven Stock Prediction by Xiao Ding†∗, Yue Zhang‡ , Ting Liu† , Junwen Duan†
+50.Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy -
+Hongyang Yang, Xiao-Yang Liu, Shan Zhong
+51.Minervini, M. Trade like a Stock Market Wizard: How to Achieve Super Performance in Stocks in Any Market. McGraw-Hill: New York, NY, USA, 2013.
+52.Deep Learning for Stock Market Prediction: Exploiting Time-Shifted Correlations of Stock Price Gradients by Benjamin Möws
+53.Bicchetti, D.; Maystre, N. (2013), ”The synchronized and long-lasting structural change on commodity markets: Evidence from high frequency data”, Algorithmic Finance, Vol. 2, No. 3- 4, pp. 233-239, University of Geneva (Switzerland), United Nations Conference on Trade and Development (Switzerland
+54.Yang, Hongyang, et al. "Deep reinforcement learning for automated stock trading: An ensemble strategy." Available at SSRN (2020).
+55.https://github.com/Rachnog/Deep-Trading/blob/master/strategy/skew.py
+56.Autoregressive Integrated Moving Average ARIMA(p, d, q) Models for Time Series Analysis. n.d. Nov 14 2019. <https://www.quantstart.com/articles/Autoregressive- Integrated-Moving-Average-ARIMA-p-d-q-Models-for-Time-Series-Analysis>.
+57.Autoregressive Moving Average ARMA(p, q) Models for Time Series Analysis - Part 1. n.d. Nov 14 2019. <https://www.quantstart.com/articles/Autoregressive-Moving- Average-ARMA-p-q-Models-for-Time-Series-Analysis-Part-1>.
+58.Bro, N. Why can RNNs with LSTM units also suffer from "exploding gradients?". n.d. Nov 14 2019. <https://stats.stackexchange.com/questions/320919/why-can-rnns- with-lstm-units-also-suffer-from-exploding-gradients>.
+59.Brockwell, Peter J. and Richard A. Davis. Introduction to Time Series and Forecasting, Second Edition. Springer, 2010.
+60.Browniee, Jason. A Gentle Introduction to Dropout for Regularizing Deep Neural Networks. 3 Dec 2018. Nov 14 2019. <https://machinelearningmastery.com/dropout-for-regularizing-deep-neural- networks/>.
+61.Brownlee, Jason. How to Scale Data for Long Short-Term Memory Networks in Python. 7 July 2017. Nov 14 2019. <https://machinelearningmastery.com/how-to-scale- data-for-long-short-term-memory-networks-in-python/>.
+62.D, F. Batch normalization in Neural Networks. 20 Oct 2017. Nov 14 2019. <https://towardsdatascience.com/batch-normalization-in-neural-networks- 1ac91516821c>.
+46
+63.Dixon, M, D Klabjan and J Bang. "Classification-Based Financial Markets Prediction Using Deep Neural Networks." SSRN Electronic Journal. (2016).
+64.Hamilton, J. D. Time series analysis, volume 2. Hamilton, J. D. 1994. Time series analysis, volume 2. Princeton university press Princeton., 1994.
+65.Hayes, A. Technical Analysis Definition. . n.d. Nov 2019. <https://www.investopedia.com/terms/t/technicalanalysis.asp>.
+66.Hayes, Adam. Moving Average Convergence Divergence – MACD Definition. 18 Sep 2019. Nov 14 2019. <www.investopedia.com/terms/m/macd.asp.>.
+—. xponential Moving Average - EMA. 17 Oct 2019. Nov 14 2019. <www.investopedia.com/terms/e/ema.asp.>.
+67.Hochreiter, Sepp and Jürgen Schmidhuber. "Long Short-term Memory." Neural Computation 9(8).PubMed (1997): 1735–1780.
+68.Introduction to Time Series Data Analysis. 22 Feb 2018. Nov 14 2019. <https://algorithmia.com/blog/introduction-to-time-series>.
+69.Kenstler, Brad. Cyclical Learning Rate (CLR). n.d. Nov 14 2019. <https://github.com/bckenstler/CLR>.
+70.Kuepper, J. Efficient Market Hypothesis (EMH) Definition. [online]. n.d. 14 Nov 2019.
+71.<https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp>. Little, K. What Are the Top Tools for Fundamental Analysis. 14 Nov 2019.
+72.<https://www.thebalance.com/tools-of-fundamental-analysis-3140772>. 47
+73.Matthew Frankel, C. . Warren Buffett on Beating the Stock Market | The Motley Fool. [online] The Motley Fool. 14 Nov 2019. <https://www.fool.com/investing/2017/09/23/warren-buffett-on-beating-the- stock-market.aspx>.
+74.Nguyen, Michael. Illustrated Guide to LSTM’s and GRU’s: A step by step explanation. n.d. Nov 14 2019. <https://towardsdatascience.com/illustrated-guide-to-lstms- and-gru-s-a-step-by-step-explanation-44e9eb85bf21>.
+75.Ruder, Sebastian. Sebastian Ruder -- An overview of gradient descent optimization algorithms. 16 Jan 2016. Nov 14 2019. <https://ruder.io/optimizing-gradient- descent/>.
+76.Segal, Troy. Understanding Momentum Indicators and RSI. 13 Aug 2019. Nov 14 2019. <www.investopedia.com/investing/momentum-and-relative-strength-index/.>.
+77.What is the difference between LeakyReLU and PReLU? n.d. Nov 14 2019. <https://datascience.stackexchange.com/questions/18583/what-is-the-difference- between-leakyrelu-and-prelu>.
+78.Hayes, Adam. Bollinger Band®. n.d. Nov 14 2019. <www.investopedia.com/terms/b/bollingerbands.asp>.
+
+
