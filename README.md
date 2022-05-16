@@ -29,6 +29,14 @@ Accurately predicting the stock markets is a complex task as there are millions 
 ### Overall Architecture
 <img width="851" alt="Screen Shot 2022-05-15 at 3 03 39 PM" src="https://user-images.githubusercontent.com/61389741/168491694-cc1ac9df-d376-49cb-bd70-ce227485a21b.png">
 
+### Results
+<img width="664" alt="Screen Shot 2022-05-16 at 4 47 35 AM" src="https://user-images.githubusercontent.com/61389741/168570133-c6c2c12d-6e5f-4a13-90c0-0210017e11db.png">
+<img width="618" alt="Screen Shot 2022-05-16 at 4 47 40 AM" src="https://user-images.githubusercontent.com/61389741/168570161-d290e03a-ae11-4b92-a161-9bb88568e551.png">
+<img width="789" alt="Screen Shot 2022-05-16 at 4 37 14 AM" src="https://user-images.githubusercontent.com/61389741/168570207-57de3ebb-309e-4910-8223-c879be861f62.png">
+<img width="804" alt="Screen Shot 2022-05-16 at 4 38 39 AM" src="https://user-images.githubusercontent.com/61389741/168570231-9e3436b6-0d07-4308-bd86-1054196c17f5.png">
+<img width="857" alt="Screen Shot 2022-05-16 at 4 44 39 AM" src="https://user-images.githubusercontent.com/61389741/168570273-922b10fb-f917-4c1a-931b-bf9291cb797f.png">
+
+
 The Repo contains following files and folder:
 
 * Data- Datasets used in the codes:
