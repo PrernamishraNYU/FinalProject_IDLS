@@ -41,5 +41,6 @@ Model -LSTM model used in file
 Screenshots - important plots
 Requirements.txt- Necessary files, libraries and packages
 Notebooks 1,2,3,4,5,6- Advancement wise Notebooks
+References - Credits to every source I used and referred
 
 NOTE: Some New Version Tensorflow functions were not working as expected and hence I have downgraded 'some' files with older version
